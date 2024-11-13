@@ -87,6 +87,7 @@ class MainActivity : AppCompatActivity() {
         }
         return chipsSelecionadas
     }
+
     /*exemplos for in ... until e for in..
         // Usando until (exclusivo de 5)
         for (i in 1 until 5) {
